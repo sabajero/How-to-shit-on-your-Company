@@ -1,4 +1,6 @@
-## Information    
+Documentation 
+
+## Project Information    
 
 - Title: How to shit on your company
 - Category: Semester Work   
@@ -9,34 +11,32 @@
 
 ## Description - Text + images + links  
 
-![Fig 1. Cover of the zine/publication, February 2025.](jgb_molokit_hst_1.JPG)  
-- Fig 1. Cover of the zine/publication, February 2025.
+![Fig 1. Cover of the zine/publication, February 2025.](jgb_molokit_hst_1)    
 
 “How to Shit in Your Company” (code name molokit) is a project that critically examines Amazon's outsourcing infrastructures through fictioning, proposing radical ways to attack or reflect on the condition of digital workers. Rooted in my personal experience as an outsourced Customer Service Associate working from Colombia, the project takes the form of a user manual–future kit designed to collectively reflect on contemporary working conditions.
 
 The project is accompanied by an essay that offers a deeper analysis of the infrastructures, systems, and dynamics I experienced at Amazon. I will argue with different theoretical perspectives, that Amazon’s infrastructure goes beyond physical to encompass political, social, technical, economic, and productive hegemonies that shape not only our actions but also our most personal decisions and desires.
 
-![Fig 2. First Scenario from Zine, February 2025.](jgp_molokit_comic_2.jpg)  
-- Fig 2. Part of the Zine, February 2025.
+I also explore how fictioning and speculative design can function as tools of resistance through this user manual/kit. The project rethinks corporate logic and invites us to imagine alternatives to capitalism. Drawing from retro video game aesthetics, a fascination with user manuals, and my interest in drawing, I created characters, scenarios, and special abilities that playfully aim to ignite disobedience against corporations. The final outcome is envisioned as a game-toolkit, meant to provoke thought and challenge Amazon’s infrastructural power among workers and the people.    
 
-I also explore how fictioning and speculative design can function as tools of resistance through this user manual/kit. The project rethinks corporate logic and invites us to imagine alternatives to capitalism. Drawing from retro video game aesthetics, a fascination with user manuals, and my interest in drawing, I created characters, scenarios, and special abilities that playfully aim to ignite disobedience against corporations. The final outcome is envisioned as a game-toolkit, meant to provoke thought and challenge Amazon’s infrastructural power among workers and the people.       
+![Fig 2. First Scenario from Zine, February 2025.](jgb_molokit_comic_1)  
 
-![Fig 3. Early designs for the characters, November 2024.](jgb_molokit_sketches_characters_1)
+![Fig 3. General Overlay Zine, Side A, February 2025..](jgp_molokit_zine_1.jpeg)
 
-![Poster included in the zine in different color variations](jgb_molokit_poste)
+![Fig 4. Closeup of the Kit Package](jgb_molokit_hst_2)
 
-![Doggy Character](jgb_desobidiencekit_character_molo)    
+![Full pdf essay](jgb_molokit_research_1)
 
+Full essay (In my portfolio page as an entry)  
 
-[Full essay: How to shit on your company.
-Some reflections around outsourcing, Amazon digital labor and postcapitalism imaginaries
-](https://sites.google.com/view/jeronimo-gutierrezbalanta/projects/outsourcing-infrastructures?authuser=0)
+Git Hub (Markdown Repository)
 
-
-[Git Hub](https://sites.google.com/view/jeronimo-gutierrezbalanta/projects/outsourcing-infrastructures?authuser=0)
+Google Drive (Access on request)
 
 
-## References 
+Special Thanks to Indrayuth Sengupta and Tim Reidlich for their manual labor
+
+## references 
 
 Kroth, L. (2022). Infrastructure, translation, and metaphor. In Broken relations: Infrastructure, aesthetics, and critique,Spector Books.​
 
@@ -53,4 +53,8 @@ Srnicek, N., & Williams, A. (2016). Inventing the future: Postcapitalism and a w
 Mason, P. (2012). Why it's kicking off everywhere: The new global revolutions. Verso.​
 
 Pollman, E. (2019). Corporate disobedience. Duke Law Journal, https://www.jstor.org/stable/48563663
+
+
+![Fig.6 Doggy Character](jgb_desobidiencekit_character_molo)  
+
 
