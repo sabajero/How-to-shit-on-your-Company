@@ -11,7 +11,8 @@ Documentation
 
 ## Description - Text + images + links  
 
-![Fig 1. Cover of the zine/publication, February 2025.](jgb_molokit_hst_1.JPG)    
+![Fig 1. Cover of the zine/publication, February 2025.](jgb_molokit_hst_1.JPG)  
+*Cover of the zine/publication*
 
 “How to Shit in Your Company” (code name molokit) is a project that critically examines Amazon's outsourcing infrastructures through fictioning, proposing radical ways to attack or reflect on the condition of digital workers. Rooted in my personal experience as an outsourced Customer Service Associate working from Colombia, the project takes the form of a user manual–future kit designed to collectively reflect on contemporary working conditions.
 
@@ -22,13 +23,13 @@ I also explore how fictioning and speculative design can function as tools of re
 
 
 ![Fig 4. Closeup of the Kit Package](jgb_molokit_hst_3.JPG)
-- Fig 2. Closeup of the Kit Package
+*Closeup of the Kit Package*
 
 ![Fig 2. First Scenario from Zine, February 2025.](jgp_molokit_comic_2.jpg)  
-- Fig 3. First Scenario from Zine, February 2025.
+*First Scenario from Zine, February 2025*
   
 ![Fig 3. General Overlay Zine, Side A, February 2025..](jgb_molokit_print_zine-01.jpg)
-- Fig 4. General Overlay Zine, Side A, February 2025.
+*General Overlay Zine, Side A, February 2025*
   
 
 
@@ -45,7 +46,7 @@ Full Essay in PDF
 
 Special Thanks to Indrayuth Sengupta and Tim Reidlich for their manual labor
 
-## references 
+## References 
 
 Kroth, L. (2022). Infrastructure, translation, and metaphor. In Broken relations: Infrastructure, aesthetics, and critique,Spector Books.​
 
@@ -64,6 +65,6 @@ Mason, P. (2012). Why it's kicking off everywhere: The new global revolutions. V
 Pollman, E. (2019). Corporate disobedience. Duke Law Journal, https://www.jstor.org/stable/48563663
 
 
-![Fig.6 Doggy Character](jgb_desobidiencekit_character_molo)  
-
+![Fig.6 Doggy Character](jgb_molokit_character_molo.png)  
+*Character Molo*
 
