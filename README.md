@@ -16,12 +16,10 @@
 
 The project is accompanied by an essay that offers a deeper analysis of the infrastructures, systems, and dynamics I experienced at Amazon. I will argue with different theoretical perspectives, that Amazon’s infrastructure goes beyond physical to encompass political, social, technical, economic, and productive hegemonies that shape not only our actions but also our most personal decisions and desires.
 
-I also explore how fictioning and speculative design can function as tools of resistance through this user manual/kit. The project rethinks corporate logic and invites us to imagine alternatives to capitalism. Drawing from retro video game aesthetics, a fascination with user manuals, and my interest in drawing, I created characters, scenarios, and special abilities that playfully aim to ignite disobedience against corporations. The final outcome is envisioned as a game-toolkit, meant to provoke thought and challenge Amazon’s infrastructural power among workers and the public.
-
 ![Fig 2. First Scenario from Zine, February 2025.](jgp_molokit_comic_2.jpg)  
 - Fig 2. Part of the Zine, February 2025.
 
-I also explore how fictioning and speculative design can function as tools of resistance through this user manual/kit. The project rethinks corporate logic and invites us to imagine alternatives to capitalism. Drawing from retro video game aesthetics, a fascination with user manuals, and my interest in drawing, I created characters, scenarios, and special abilities that playfully aim to ignite disobedience against corporations. The final outcome is envisioned as a game-toolkit, meant to provoke thought and challenge Amazon’s infrastructural power among workers and the public.    
+I also explore how fictioning and speculative design can function as tools of resistance through this user manual/kit. The project rethinks corporate logic and invites us to imagine alternatives to capitalism. Drawing from retro video game aesthetics, a fascination with user manuals, and my interest in drawing, I created characters, scenarios, and special abilities that playfully aim to ignite disobedience against corporations. The final outcome is envisioned as a game-toolkit, meant to provoke thought and challenge Amazon’s infrastructural power among workers and the people.       
 
 ![Fig 3. Early designs for the characters, November 2024.](jgb_molokit_sketches_characters_1)
 
