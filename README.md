@@ -18,7 +18,7 @@ The project is accompanied by an essay that offers a deeper analysis of the infr
 
 I also explore how fictioning and speculative design can function as tools of resistance through this user manual/kit. The project rethinks corporate logic and invites us to imagine alternatives to capitalism. Drawing from retro video game aesthetics, a fascination with user manuals, and my interest in drawing, I created characters, scenarios, and special abilities that playfully aim to ignite disobedience against corporations. The final outcome is envisioned as a game-toolkit, meant to provoke thought and challenge Amazon’s infrastructural power among workers and the public.
 
-![Fig 2. First Scenario from Zine, February 2025.](jgb_molokit_comic_2.jpg)  
+![Fig 2. First Scenario from Zine, February 2025.](jgp_molokit_comic_2.jpg)  
 - Fig 2. Part of the Zine, February 2025.
 
 I also explore how fictioning and speculative design can function as tools of resistance through this user manual/kit. The project rethinks corporate logic and invites us to imagine alternatives to capitalism. Drawing from retro video game aesthetics, a fascination with user manuals, and my interest in drawing, I created characters, scenarios, and special abilities that playfully aim to ignite disobedience against corporations. The final outcome is envisioned as a game-toolkit, meant to provoke thought and challenge Amazon’s infrastructural power among workers and the public.    
