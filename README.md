@@ -27,11 +27,11 @@ I also explore how fictioning and speculative design can function as tools of re
 
 ![Full pdf essay](jgb_molokit_research_1)
 
-Full essay (In my portfolio page as an entry)  
+[Full essay](https://sites.google.com/view/jeronimo-gutierrezbalanta/projects/outsourcing-infrastructures?authuser=0) (In my portfolio page as an entry) 
 
-Git Hub (Markdown Repository)
+[Git Hub](https://github.com/sabajero/How-to-shit-on-your-Company) (Markdown Repository)
 
-Google Drive (Access on request)
+[Google Drive](https://drive.google.com/drive/folders/1vbRG0gsNpRj_I-hHsAeHaMMErPGxC_Ss?usp=drive_link) (Access on request)
 
 
 Special Thanks to Indrayuth Sengupta and Tim Reidlich for their manual labor
