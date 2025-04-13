@@ -19,13 +19,22 @@ The project is accompanied by an essay that offers a deeper analysis of the infr
 
 I also explore how fictioning and speculative design can function as tools of resistance through this user manual/kit. The project rethinks corporate logic and invites us to imagine alternatives to capitalism. Drawing from retro video game aesthetics, a fascination with user manuals, and my interest in drawing, I created characters, scenarios, and special abilities that playfully aim to ignite disobedience against corporations. The final outcome is envisioned as a game-toolkit, meant to provoke thought and challenge Amazon’s infrastructural power among workers and the people.    
 
-![Fig 2. First Scenario from Zine, February 2025.](jgb_molokit_comic_2.jpg)  
 
-![Fig 3. General Overlay Zine, Side A, February 2025..](jgp_molokit_zine_1.jpeg)
 
-![Fig 4. Closeup of the Kit Package](jgb_molokit_hst_2)
+![Fig 4. Closeup of the Kit Package](jgb_molokit_hst_3.JPG)
+- Fig 2. Closeup of the Kit Package
 
-![Full pdf essay](jgb_molokit_research_1)
+![Fig 2. First Scenario from Zine, February 2025.](jgp_molokit_comic_2.jpg)  
+- Fig 3. First Scenario from Zine, February 2025.
+  
+![Fig 3. General Overlay Zine, Side A, February 2025..](jgb_molokit_print_zine-01.jpg)
+- Fig 4. General Overlay Zine, Side A, February 2025.
+  
+
+
+[Full pdf essay](jgb_molokit_essay.pdf)
+Full Essay in PDF
+
 
 [Full essay](https://sites.google.com/view/jeronimo-gutierrezbalanta/projects/outsourcing-infrastructures?authuser=0) (In my portfolio page as an entry) 
 
